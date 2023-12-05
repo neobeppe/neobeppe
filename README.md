@@ -14,4 +14,5 @@
 #### ✍🏻 Latest blog posts
 
 <!-- BLOG:START -->
+- [Enhancing iOS App Usability: The Critical Role of Accessibility in Labels and Fonts](https://dev.to/neobeppe/enhancing-ios-app-usability-the-critical-role-of-accessibility-in-labels-and-fonts-21oh)
 <!-- BLOG:END -->
