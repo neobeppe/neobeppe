@@ -14,7 +14,13 @@
 <a href="https://www.linkedin.com/in/giuseppetravasoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 ---
-#### ✍🏻 Latest blog posts
+
+#### 💻 Latest Medium posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+
+#### ✍🏻 Latest dev.to posts
 
 <!-- BLOG:START -->
 - [Exploring Dynamic Method Injection in Swift](https://dev.to/neobeppe/exploring-dynamic-method-injection-in-swift-5bno)
