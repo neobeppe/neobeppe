@@ -25,7 +25,7 @@
 <!-- MEDIUM:END -->
 
 
-#### ✍🏻 Latest dev.to posts
+#### ✍🏻 Latest DEV Community posts
 
 <!-- DEVTO:START -->
 - [Exploring Dynamic Method Injection in Swift](https://dev.to/neobeppe/exploring-dynamic-method-injection-in-swift-5bno)
