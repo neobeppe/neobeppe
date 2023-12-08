@@ -22,7 +22,7 @@
 
 #### ✍🏻 Latest dev.to posts
 
-<!-- BLOG:START -->
+<!-- DEVTO:START -->
 - [Exploring Dynamic Method Injection in Swift](https://dev.to/neobeppe/exploring-dynamic-method-injection-in-swift-5bno)
 - [Enhancing iOS App Usability: The Critical Role of Accessibility in Labels and Fonts](https://dev.to/neobeppe/enhancing-ios-app-usability-the-critical-role-of-accessibility-in-labels-and-fonts-21oh)
-<!-- BLOG:END -->
+<!-- DEVTO:END -->
