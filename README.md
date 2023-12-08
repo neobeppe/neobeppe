@@ -17,11 +17,11 @@
 
 #### 💻 Latest Medium posts
 <!-- MEDIUM:START -->
+- [Exploring Dynamic Method Injection in Swift](https://neobeppe.medium.com/exploring-dynamic-method-injection-in-swift-1c6dc7b6a5ad?source=rss-d32812c01d9a------2)
 - [How to dismantle a Massive Singleton iOS App](https://neobeppe.medium.com/how-to-dismantle-a-massive-singleton-ios-app-a3fb75f7d18f?source=rss-d32812c01d9a------2)
 - [Quick win for you app: “Add to Siri” Button](https://neobeppe.medium.com/quick-win-for-you-app-add-to-siri-button-7f4badf38e92?source=rss-d32812c01d9a------2)
 - [Improve iOS apps user experience using Haptic Feedbacks and Taptic Engine](https://medium.com/beatcode/improve-ios-apps-user-experience-using-haptic-feedbacks-and-taptic-engine-fffe632c8a74?source=rss-d32812c01d9a------2)
 - [How to apply iOS 3D Touch to any UIView as a UIGestureRecognizer](https://neobeppe.medium.com/how-to-apply-ios-3d-touch-to-any-uiview-as-a-uigesturerecognizer-a1d6da6aac18?source=rss-d32812c01d9a------2)
-- [How to apply Squircle radius to iOS views](https://neobeppe.medium.com/how-to-apply-squircle-radius-to-ios-views-b64a6b628813?source=rss-d32812c01d9a------2)
 <!-- MEDIUM:END -->
 
 
